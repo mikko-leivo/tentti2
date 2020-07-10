@@ -1,0 +1,6 @@
+Nimi: Anni, Numero: 1
+Nimi: Maisa, Numero: 2
+Nimi: Nicolina, Numero: 3
+Nimi: Vilja, Numero: 4
+Nimi: Jukka, Numero: 5
+Nimi: Samu, Numero: 6
