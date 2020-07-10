@@ -35,9 +35,8 @@ def teht2(num, bucket_name="kiristaminenlailliseksi", object_name=None, file_nam
         for numero in rivi_lista:
             f = open(object_name)
             lines = f.readlines()
-            #return lines[numero]
-            print(lines[numero])
-            f.close()
+            return lines[numero]
+        f.close()
     except IndexError:
         return "Tiedostossa ei ole näin montaa riviä"
 
